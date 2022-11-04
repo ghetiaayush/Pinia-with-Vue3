@@ -33,7 +33,7 @@ npm run build
     ```
     npm install -g json-server
     ```
-  To run api first start the json server by running following command while going into data folder 
+  To run api first start the json server by running following command going into data folder 
     ```
     json-server --watch db.json
     ```
