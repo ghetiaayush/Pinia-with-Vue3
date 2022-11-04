@@ -29,11 +29,11 @@ npm run build
 ```
 - Note:-
   
-  To run api from db folder first Install JSON Server 
+  To run api from data folder first Install JSON Server 
     ```
     npm install -g json-server
     ```
-  To run api first start the json server by running following command while going into db folder 
+  To run api first start the json server by running following command while going into data folder 
     ```
     json-server --watch db.json
     ```
