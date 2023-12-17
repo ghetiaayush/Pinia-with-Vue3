@@ -27,13 +27,13 @@ npm run dev
 ```sh
 npm run build
 ```
-- Note:-
+### Note:-
   
   To run api from data folder first Install JSON Server 
     ```
     npm install -g json-server
     ```
-  To run api first start the json server by running following command going into data folder 
+  To start the json server run following command by going into data folder 
     ```
     json-server --watch db.json
     ```
